@@ -1,2 +1,0 @@
-# pwaapp
-PWA App Project
